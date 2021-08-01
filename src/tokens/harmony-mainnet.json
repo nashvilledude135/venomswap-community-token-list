@@ -129,10 +129,10 @@
   },
   {
     "chainId": 1666600000,
-    "address": "0x54b3cc870576b2059f464929aE52196719631EaC",
-    "symbol": "SEAHORSE",
-    "name": "Seahorse",
-    "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/SEAHORSE.png"
+    "address": "0xad2a7ffb790c22c68e88b8e9fe76883a826fbbdd",
+    "symbol": "TWO",
+    "name": "Harmony Two",
+    "decimals": 9,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/X.png"
   }
 ]

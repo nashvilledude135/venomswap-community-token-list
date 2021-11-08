@@ -134,5 +134,11 @@
     "name": "Seahorse",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/SEAHORSE.png"
-  }
-]
+  },
+"chainId": 1666600000,
+    "address": "0xd99b61173cdd2baf8444dcf614318936cdf4d905",
+    "symbol": "PASHA",
+    "name": "Pasha Harmony",
+    "decimals": 18,
+    "logoURI": "https://drive.google.com/file/d/1kOcCBVxvJJdHXQxWbv44c-_ba6Va-45o/view?usp=sharing"
+  },
